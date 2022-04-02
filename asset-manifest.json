@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hima/static/css/main.0ac97862.css",
-    "main.js": "/hima/static/js/main.c50419db.js",
+    "main.js": "/hima/static/js/main.7c50bd44.js",
     "static/js/787.44d45528.chunk.js": "/hima/static/js/787.44d45528.chunk.js",
     "static/media/1648807717562.jpg": "/hima/static/media/1648807717562.22b6853d21664f0538e5.jpg",
     "static/media/head-2.png": "/hima/static/media/head-2.51313b9aa723c0a7fb13.png",
@@ -21,11 +21,11 @@
     "static/media/Bonfida.svg": "/hima/static/media/Bonfida.c59946c0a9128200c038e47be2d058cd.svg",
     "index.html": "/hima/index.html",
     "main.0ac97862.css.map": "/hima/static/css/main.0ac97862.css.map",
-    "main.c50419db.js.map": "/hima/static/js/main.c50419db.js.map",
+    "main.7c50bd44.js.map": "/hima/static/js/main.7c50bd44.js.map",
     "787.44d45528.chunk.js.map": "/hima/static/js/787.44d45528.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ac97862.css",
-    "static/js/main.c50419db.js"
+    "static/js/main.7c50bd44.js"
   ]
 }
